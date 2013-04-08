@@ -5,7 +5,7 @@ Logs
 ----
 2013
 * [201303](https://github.com/xhmao/StrangerM/blob/master/doc/log/201303log.md)
-* [201303](https://github.com/xhmao/StrangerM/blob/master/doc/log/201304log.md)
+* [201304](https://github.com/xhmao/StrangerM/blob/master/doc/log/201304log.md)
 
 Ubuntu
 ------
