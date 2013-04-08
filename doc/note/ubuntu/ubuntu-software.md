@@ -7,6 +7,7 @@ Ubuntu常用软件
 * [System Load Indicator](apt://indicator-multiload)
 * [Terminator](apt://Terminator)
 * [Midnight Commander](apt://mc)
+* [Ubuntu tweak](https://launchpad.net/~tualatrix)
 
 输入法
 ------
